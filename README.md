@@ -18,4 +18,4 @@ This repository is a collection of Python scripts and programs for beginners to 
 ## 🚀 Getting Started
 1. Clone the repository:
    ```bash
-  
+   https://github.com/karan-aher/PYTHON_PROGRAMMING.git
