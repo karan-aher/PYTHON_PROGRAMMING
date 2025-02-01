@@ -1,0 +1,24 @@
+1. Download the Python installer:
+    - Go to the official Python website: https://www.python.org/
+    - Click on the "Downloads" tab.
+    - Select "Windows" and download the latest Python installer.
+
+2. Run the installer:
+    - Locate the downloaded installer file (usually in your Downloads folder).
+    - Double-click the installer to run it.
+
+3. Customize the installation:
+    - Check the box that says "Add Python to PATH".
+    - Click on "Customize installation" if you want to choose specific features or installation location.
+    - Otherwise, click "Install Now".
+
+4. Complete the installation:
+    - Wait for the installation to complete.
+    - Once done, you can close the installer.
+
+5. Verify the installation:
+    - Open Command Prompt (search for "cmd" in the Start menu).
+    - Type `python --version` and press Enter.
+    - You should see the installed Python version displayed.
+
+Python is now installed on your Windows system.
